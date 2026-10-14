@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:aapt="http://schemas.android.com/aapt"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+
+    <!-- Open Book (Symbol of Education) -->
+    <path
+        android:pathData="M25,75 C25,75 40,70 54,75 C68,70 83,75 83,75 L83,82 C83,82 68,77 54,82 C40,77 25,82 25,82 Z">
+        <aapt:attr name="android:fillColor">
+            <gradient
+                android:startX="25"
+                android:startY="75"
+                android:endX="83"
+                android:endY="82"
+                android:type="linear">
+                <item android:offset="0" android:color="#FFD700" />
+                <item android:offset="1" android:color="#FFA000" />
+            </gradient>
+        </aapt:attr>
+    </path>
+
+    <!-- Lamp (Nilavilakku - Symbol of Enlightenment) -->
+    <!-- Base -->
+    <path
+        android:fillColor="#FFD700"
+        android:pathData="M45,75 L63,75 L61,72 L47,72 Z" />
+
+    <!-- Stem -->
+    <path
+        android:fillColor="#FFD700"
+        android:pathData="M52,72 L56,72 L55,45 L53,45 Z" />
+
+    <!-- Oil Bowl -->
+    <path
+        android:pathData="M42,45 C42,45 54,57 66,45 L66,41 C66,41 54,53 42,41 Z">
+        <aapt:attr name="android:fillColor">
+            <gradient
+                android:startX="42"
+                android:startY="41"
+                android:endX="66"
+                android:endY="45"
+                android:type="linear">
+                <item android:offset="0" android:color="#FFD700" />
+                <item android:offset="1" android:color="#FFA000" />
+            </gradient>
+        </aapt:attr>
+    </path>
+
+    <!-- Flame -->
+    <path
+        android:pathData="M54,42 C54,42 60,32 54,20 C48,32 54,42 Z">
+        <aapt:attr name="android:fillColor">
+            <gradient
+                android:startX="54"
+                android:startY="20"
+                android:endX="54"
+                android:endY="42"
+                android:type="linear">
+                <item android:offset="0" android:color="#FFFFFF" />
+                <item android:offset="0.5" android:color="#FFF176" />
+                <item android:offset="1" android:color="#FFD700" />
+            </gradient>
+        </aapt:attr>
+    </path>
+
+    <!-- Flame Glow -->
+    <path
+        android:fillColor="#30FFF176"
+        android:pathData="M54,48 C54,48 65,32 54,15 C43,32 54,48 Z" />
+
+</vector>

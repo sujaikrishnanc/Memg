@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "548810693093",
+    "project_id": "memg-membership-app",
+    "storage_bucket": "memg-membership-app.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:548810693093:android:b0c28255097bb335d1f70c",
+        "android_client_info": {
+          "package_name": "com.example.memg"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "548810693093-dq59c02i57oht3aumkvvofcu3gefgted.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB5ipZ1ovj72R-alclmzTlSb_jmIP2P5Kg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "548810693093-dq59c02i57oht3aumkvvofcu3gefgted.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
